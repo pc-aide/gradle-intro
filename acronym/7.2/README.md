@@ -5,4 +5,4 @@
 ## List
 |n|name|def|e.g|
 |-|----|---|---|
-|1|DSL |<ins>Domain-Specific-Language</ins><br/>&ensp;DSL is used to describe how to build, test, package, and deploy a project.
+|1|DSL |<ins>Domain-Specific-Language</ins><br/>&ensp;DSL is used to describe how to **build**, **test**, **package**, and **deploy** a project.
