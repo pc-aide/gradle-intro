@@ -7,4 +7,4 @@
 
 ````gradle
 apply plugin: 'java'
-```
+````
