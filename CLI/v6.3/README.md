@@ -27,6 +27,8 @@ gradle build
 ````
 
 <img src="https://i.imgur.com/aaRmNyl.png">
+
 * syntax : gradle <taskName>
 * eg : `gradle hello`
+
 <img src="https://i.imgur.com/Kdzqpo9.png">
