@@ -32,3 +32,10 @@ gradle build
 * eg : `gradle hello`
 
 <img src="https://i.imgur.com/Kdzqpo9.png">
+
+---
+
+## task
+````ps1
+gradle tasks <>
+````
