@@ -4,3 +4,7 @@
 
 ## installDir
 <img src="https://i.imgur.com/RHUzDhe.png">
+
+---
+
+## env var
