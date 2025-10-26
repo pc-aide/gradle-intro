@@ -37,5 +37,6 @@ gradle build
 
 ## task
 ````ps1
-gradle tasks <>
+gradle tasks 
 ````
+<img src="https://i.imgur.com/EbFRhWR.png">
